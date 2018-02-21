@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Tumblr Link Fix
-// @version      1.0.0
+// @version      1.0.1
 // @namespace    https://github.com/faokryn/tumblr-link-fix
 // @description  Changes Tumblr's link decoration from a gradient to text decoration, so that it shows up on more systems
 // @author       Colin O'Neill <colin@faokryn.com>
 // @license      Apache v2.0
 // @match        https://www.tumblr.com/dashboard*
 // @match        https://www.tumblr.com/blog/*
+// @match        https://www.tumblr.com/new/*
+// @match        https://www.tumblr.com/reblog/*
 // @grant        none
 // ==/UserScript==
 
